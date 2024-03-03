@@ -11,7 +11,7 @@ Um IDE (como IntelliJ IDEA ou Eclipse)
 Passos para disponibilizar o serviço
 Clone este repositório em sua máquina local:
 
-git clone https://github.com/AlanAmanco/nome-do-repositorio.git
+git clone https://github.com/AlanAmanco/cadastro-professor.git
 
 Abra o projeto em seu IDE.
 
